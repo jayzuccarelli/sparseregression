@@ -11,7 +11,7 @@ setuptools.setup(
     description="Sparse Regression",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ezuccarelli/sparseregression",
+    url="https://github.com/jayzuccarelli/sparseregression",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
