@@ -34,7 +34,7 @@ print(coefficients)
 
 ## API Reference
 
-### `sparseregression.linear.sparse_linear_regression`
+#### `sparseregression.linear.sparse_linear_regression`
 
 ```python
 sparse_linear_regression(X, y, k, engine='ipopt', executable='~', verbose=False)
